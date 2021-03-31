@@ -81,6 +81,7 @@ $cold_wallet_table = array(
 // Sample fixed pool fees
 $configFixedPoolFees = array(
         'zr5' => 2.0,
+        'ethash' => 1.3,
         'scrypt' => 20.0,
         'sha256' => 5.0,
 );
